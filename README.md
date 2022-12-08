@@ -1,3 +1,15 @@
-# pet-project
+# Prints do Sonar
 
-Use este link do GitHub classroom para criar seu pet <https://classroom.github.com/a/AAEaFiAk>
+---
+
+## Overall
+
+![Screenshot Overall](./Overall.png)
+
+## Code Smell
+
+![Screenshot Code Smell](./code_smell.png)
+
+## Security
+
+![Screenshot Security](./Security.png)
