@@ -1,7 +1,5 @@
 package br.edu.ifrs.riogrande.tads.OnlineGame.app.services.dto;
 
-i
-
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Pattern;
